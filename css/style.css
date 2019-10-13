@@ -99,10 +99,10 @@ main{
 .intro h1, p{
     text-align: right;
 }
-main p{
+main .main-description{
     margin-right: 100px;
 }
-main p a{
+main .main-description a{
     color: #6A94E2;
 }
 .social-media{
