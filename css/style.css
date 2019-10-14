@@ -241,14 +241,21 @@ main .main-description a{
         height: auto;
         padding: 50px 0;
     }
-    #photo-frame{
+    .section-half:nth-child(1){
         margin-top: 100px;
+    }
+    main .main-description {
+        margin-right: unset;
+        margin: 50px 10%;
     }
     .intro {
         padding-right: 0px;
     }
     .intro h1, .intro p {
         text-align: center;
+    }
+    .social-media{
+        margin-top: 50px;
     }
 }
 
